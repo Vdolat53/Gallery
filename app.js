@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
     let image = {
         value: 'Default',
         name : 'Default',
-        path : 'images\\Default.jpg'
+        path : 'images\\default.jpg'
     }
     if (req.query.image)
         image = appConstants.images.find(image => image.value === req.query.image) ?? image
