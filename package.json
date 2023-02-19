@@ -1,13 +1,21 @@
 {
-  "name": "gallery",
-  "version": "1.0.0",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name"       : "gallery",
   "description": "",
+  "version"    : "1.0.0",
+
+  "author" : "",
+  "license": "ISC",
+
+  "scripts": {
+    "start": "node app.js"
+  },
+
+  "homepage": "https://github.com/Vdolat53/Gallery",
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/Vdolat53/Gallery.git"
+  },
+
   "dependencies": {
     "express": "^4.18.2",
     "express-handlebars": "^6.0.6",
