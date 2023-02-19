@@ -1,5 +1,7 @@
-<a href="https://vahid-gallery.cyclic.app" style="font-size: 3rem">Gallery</a>
-on ***Cyclic platform***
----
+# [Gallery](https://vahid-gallery.cyclic.app)
 
-Simple app based on ***Cyclic*** and ***Node.js***
+Assignment <u>**Lab – GitHub Cyclic**</u>
+
+> ### ***Based on***
+> + Cyclic
+> + Node.js
